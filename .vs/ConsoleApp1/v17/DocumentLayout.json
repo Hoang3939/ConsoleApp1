@@ -1,17 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Hoang\\source\\repos\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User01\\source\\repos\\ConsoleApp1\\.vs\\ConsoleApp1\\xs\\UserPrefs.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ConsoleApp1\\xs\\UserPrefs.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User01\\source\\repos\\ConsoleApp1\\.vs\\ConsoleApp1\\xs\\project-cache\\ConsoleApp1-Debug.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ConsoleApp1\\xs\\project-cache\\ConsoleApp1-Debug.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB7D52CE-96AD-4B0B-9045-C639507AA42C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\user01\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB7D52CE-96AD-4B0B-9045-C639507AA42C}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\hoang\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB7D52CE-96AD-4B0B-9045-C639507AA42C}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,53 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserPrefs.xml",
-              "DocumentMoniker": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\.vs\\ConsoleApp1\\xs\\UserPrefs.xml",
-              "RelativeDocumentMoniker": ".vs\\ConsoleApp1\\xs\\UserPrefs.xml",
-              "ToolTip": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\.vs\\ConsoleApp1\\xs\\UserPrefs.xml",
-              "RelativeToolTip": ".vs\\ConsoleApp1\\xs\\UserPrefs.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-09-20T03:11:39.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApp1-Debug.json",
-              "DocumentMoniker": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\.vs\\ConsoleApp1\\xs\\project-cache\\ConsoleApp1-Debug.json",
-              "RelativeDocumentMoniker": ".vs\\ConsoleApp1\\xs\\project-cache\\ConsoleApp1-Debug.json",
-              "ToolTip": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\.vs\\ConsoleApp1\\xs\\project-cache\\ConsoleApp1-Debug.json",
-              "RelativeToolTip": ".vs\\ConsoleApp1\\xs\\project-cache\\ConsoleApp1-Debug.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-20T03:10:31.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\User01\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T02:49:19.144Z"
+              "WhenOpened": "2025-09-20T03:19:49.762Z",
+              "EditorCaption": ""
             }
           ]
         }
