@@ -18,3 +18,19 @@ public class Person
     }
 }
 
+public class Teacher
+{
+    public string Subject { get; set; }
+    public int ExperienceYears { get; set; }
+
+    public Teacher(string subject, int years)
+    {
+        Subject = subject;
+        ExperienceYears = years;
+    }
+
+    public void Teach()
+    {
+        Console.WriteLine($"Tôi dạy môn {Subject} và có {ExperienceYears} năm kinh nghiệm.");
+    }
+}
