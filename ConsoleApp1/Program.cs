@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine("2 + 2 = " + (1 + 1));
+Console.WriteLine("2 + 2 = " + (2 + 2));
 public class Person
 {
     public string Ten { get; set; }
@@ -32,6 +32,7 @@ public class Teacher
     public void Teach()
     {
         Console.WriteLine($"Tôi dạy môn {Subject} và có {ExperienceYears} năm kinh nghiệm.");
-        Console.WriteLine($"Tôi là giáo viên");
+        Console.WriteLine($"Tôí");
+        Console.WriteLine("");
     }
 }
