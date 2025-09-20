@@ -32,6 +32,6 @@ public class Teacher
     public void Teach()
     {
         Console.WriteLine($"Tôi dạy môn {Subject} và có {ExperienceYears} năm kinh nghiệm.");
-        Console.WriteLine($"Tôi là giáo viên");
+        Console.WriteLine($"Tôi là giáo viên 123");
     }
 }
