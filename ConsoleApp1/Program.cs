@@ -36,4 +36,22 @@ public class Teacher
         Console.WriteLine("");
     }
 }
+public class Student
+{
+    public string Subject { get; set; }
+    public int ExperienceYears { get; set; }
+
+    public  Student(string subject, int years)
+    {
+        Subject = subject;
+        ExperienceYears = years;
+    }
+
+    public void Teacher()
+    {
+        Console.WriteLine($"Tôi dạy môn {Subject} và có {ExperienceYears} năm kinh nghiệm.");
+        Console.WriteLine($"Tôí là");
+        Console.WriteLine("");
+    }
+}
 
