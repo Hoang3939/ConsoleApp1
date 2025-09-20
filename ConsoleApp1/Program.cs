@@ -18,3 +18,13 @@ public class Person
     }
 }
 
+public class Student
+{
+    public string Major { get; set; }
+    public int StudentId { get; set; }
+
+    public void Introduce()
+    {
+        Console.WriteLine($"Tôi là sinh viên có mã số {StudentId}, chuyên ngành {Major}.");
+    }
+}
